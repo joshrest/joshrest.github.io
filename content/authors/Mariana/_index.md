@@ -63,6 +63,7 @@ user_groups:
 - Post-docs
 - Graduate students
 - Undergraduate researchers
+- Researchers
 #- Visitors
 ---
 
