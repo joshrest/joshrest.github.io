@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Mariana
+name: Nina Gu
 
 # Username (this should match the folder name)
 authors:
-- Mariana
+- Nina Gu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Grad Students
+role: Undergraduate Researchers
 
 # Organizations/Affiliations
 organizations:
-- name: SoMAS, Stony Brook University
+- name: Biology, Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Ecology and Evolution
-    institution: University of Michigan
-    year: 2004
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
