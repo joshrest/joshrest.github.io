@@ -51,8 +51,5 @@ hero_media = "PrettyYEPD.jpg"
 	#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
- Welcome to the laboratory of Joshua Rest in the Department of Ecology and Evolution at Stony Brook University. We are also affiliated with the Laufer Center for Physical and Quantitative Biology. We are involved in the Genomics Cluster.
-
-
-
+Welcome to the laboratory of Joshua Rest in the Department of Ecology and Evolution at Stony Brook University.
 We use computation, experiments, and natural history to study the evolution of biological systems. 
