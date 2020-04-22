@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Rest Lab - we study evolution"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "PrettyYEPD.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
