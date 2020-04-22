@@ -4,7 +4,7 @@ name: Nina Gu
 
 # Username (this should match the folder name)
 authors:
-- Nina Gu
+- Nina-Gu
 
 # Is this the primary user of the site?
 superuser: false

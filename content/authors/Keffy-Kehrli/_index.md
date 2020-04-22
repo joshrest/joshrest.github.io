@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Alex Gil Gomez
+name: Keffy Kehrli
 
 # Username (this should match the folder name)
 authors:
-- Alex Gil Gomez
+- Keffy-Kehrli
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Grad Students
 
 # Organizations/Affiliations
 organizations:
-- name: Ecology and Evolution, Stony Brook University
+- name: Genetic Program, Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
