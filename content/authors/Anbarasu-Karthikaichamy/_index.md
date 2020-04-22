@@ -1,20 +1,20 @@
 ---
 # Display name
-name: Alex Gil Gomez
+name: Anbarasu Karthikaichamy
 
 # Username (this should match the folder name)
 authors:
-- Alex-Gil-Gomez
+- Anbarasu-Karthikaichamy
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Grad Students
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Ecology and Evolution, Stony Brook University
+- name: Genetic Program, Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate students
+- Post-docs
 #- Visitors
 ---
 
