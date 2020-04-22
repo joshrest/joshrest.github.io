@@ -51,7 +51,8 @@ hero_media = "PrettyYEPD.jpg"
 	#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-                  <p style="padding-top: 0pt; " class="Title">Evolutionary genomics &amp; gene regulation.<br /></p>
-                  <p class="paragraph_style">Welcome to the laboratory of <a title="Contact.html" href="Contact.html">Joshua Rest</a> in the <a title="http://life.bio.sunysb.edu/ee/" href="http://life.bio.sunysb.edu/ee/">Department of Ecology and Evolution </a>at <a title="http://www.stonybrook.edu/" href="http://www.stonybrook.edu/">Stony Brook University</a>.<span class="style"> </span>We are also affiliated with the <a title="http://laufercenter.stonybrook.edu/" href="http://laufercenter.stonybrook.edu/">Laufer Center for Physical and Quantitative Biology</a>. We are involved in the <a title="http://you.stonybrook.edu/genomics/" href="http://you.stonybrook.edu/genomics/">Genomics Cluster</a>.<br /></p>
-                  <p class="paragraph_style_1"><br /></p>
-                  <p style="padding-bottom: 0pt; " class="paragraph_style_1">We use computation, experiments, and natural history to study the evolution of biological systems. <a title="http://laufercenter.stonybrook.edu/images/movies/JoshuaRest.mp4" href="http://laufercenter.stonybrook.edu/images/movies/JoshuaRest.mp4">Click here to watch Rest’s video</a><span class="style_1">.</span></p>
+ Welcome to the laboratory of Joshua Rest in the Department of Ecology and Evolution at Stony Brook University. We are also affiliated with the Laufer Center for Physical and Quantitative Biology. We are involved in the Genomics Cluster.
+
+
+
+We use computation, experiments, and natural history to study the evolution of biological systems. 
