@@ -14,16 +14,14 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Genetic Program, Stony Brook University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: We use computation, experiments, and natural history to study the evolution of biological systems.
 
 interests:
-- Regulatory Evolution
-- Evolutionary Genomics
-- Phylogenetics and Phylogenetics
+- 
 
 education:
   courses:
@@ -63,4 +61,4 @@ user_groups:
 #- Visitors
 ---
 
-Joshua Rest's lab...
+Information about Anbu...
