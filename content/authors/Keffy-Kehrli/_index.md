@@ -21,9 +21,7 @@ organizations:
 bio: We use computation, experiments, and natural history to study the evolution of biological systems.
 
 interests:
-- Regulatory Evolution
-- Evolutionary Genomics
-- Phylogenetics and Phylogenetics
+- 
 
 education:
   courses:
