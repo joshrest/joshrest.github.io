@@ -27,7 +27,7 @@ image:
 #   icon_pack: 
 #   icon: 
 
-url_code: "https://you.stonybrook.edu/labyrinthulomycetes/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: "https://cpb-us-e1.wpmucdn.com/you.stonybrook.edu/dist/4/2073/files/2017/03/field22-1wx9sjn.gif"
