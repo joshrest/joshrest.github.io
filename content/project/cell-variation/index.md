@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Cell-Cell Variation"
+title: "Cell to Cell Expression Variation"
 summary: "Does the distribution of protein expression levels vary and evolve? Why?"
 authors: ["nina-gu","jordan-chee"]
 tags: []

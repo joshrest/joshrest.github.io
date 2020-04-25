@@ -3,7 +3,7 @@
 
 title: "Laby Carotenoid"
 summary: ""
-authors: []
+authors: ["Mariana-Rius","Joshua-Rest","Xegfred-Lou-Quidet","Michael-Horowitz","Anbarasu-Karthikaichamy"]
 tags: []
 categories: []
 date: 2020-04-24T14:10:45-04:00
@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "30X image from Rest’s lab: A. limacinum culture in log phase growth where sporulation has taken place. Zoospores are somewhat ovoid in shape and can swim at great speed. A great variability in cell size exists within the culture; the zoospores are 5-8 μm wide1, whilst the largest vegetative cells are 20-32 μm wide."
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://you.stonybrook.edu/labyrinthulomycetes/"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://cpb-us-e1.wpmucdn.com/you.stonybrook.edu/dist/4/2073/files/2017/03/field22-1wx9sjn.gif"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -39,4 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Labyrinthulomycetes are ubiquitous, abundant, and diverse osmoheterotrophic marine protists thought to play important roles in the marine carbon cycle by remineralizing particulate organic matter, and in marine food webs by supplying, de novo, essential polyunsaturated fatty acids. These basal stramenopiles are united by a unique organelle that produces a structure known as the ectoplasmic network, by which the vegetative cells interact with their substrate. In work supported by the Moore Foundation and in collaboration with Jackie Collier’s lab, we have achieved stable transformation, by knock-in of an antibiotic resistance expression cassette, of Aurantiochytrium limacinum ATCC MYA-1381, a functionally haploid, fast growing thraustochytrid, which has several features that make it a favorable model for labyrinthulomycete biology. We are using these tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis, production of the ectoplasmic network, and production of essential fatty acids. Find more information about this project here.
+Labyrinthulomycetes are ubiquitous, abundant, and diverse osmoheterotrophic marine protists thought to play important roles in the marine carbon cycle by remineralizing particulate organic matter, and in marine food webs by supplying, de novo, essential polyunsaturated fatty acids. These basal stramenopiles are united by a unique organelle that produces a structure known as the ectoplasmic network, by which the vegetative cells interact with their substrate. In work supported by the Moore Foundation and in collaboration with Jackie Collier’s lab, we have achieved stable transformation, by knock-in of an antibiotic resistance expression cassette, of Aurantiochytrium limacinum ATCC MYA-1381, a functionally haploid, fast growing thraustochytrid, which has several features that make it a favorable model for labyrinthulomycete biology. We are using these tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis, production of the ectoplasmic network, and production of essential fatty acids.
