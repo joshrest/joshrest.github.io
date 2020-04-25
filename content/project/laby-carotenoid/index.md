@@ -15,17 +15,17 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "30X image from Rest’s lab: A. limacinum culture in log phase growth where sporulation has taken place. Zoospores are somewhat ovoid in shape and can swim at great speed. A great variability in cell size exists within the culture; the zoospores are 5-8 μm wide1, whilst the largest vegetative cells are 20-32 μm wide."
+  caption: "A. limacinum culture in log phase growth where sporulation has taken place. Zoospores are somewhat ovoid in shape and can swim at great speed. A great variability in cell size exists within the culture; the zoospores are 5-8 μm wide, whilst the largest vegetative cells are 20-32 μm wide."
   focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links:
-# - name: Project Website
-#   url: https://you.stonybrook.edu/labyrinthulomycetes/
-#   icon_pack: fab
-#   icon: microscope
+ - name: Project Website
+   url: https://you.stonybrook.edu/labyrinthulomycetes/
+   icon_pack: fab
+   icon: microscope
 
 url_code: ""
 url_pdf: ""
