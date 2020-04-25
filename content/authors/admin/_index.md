@@ -29,7 +29,7 @@ education:
   courses:
   - course: PostDoc with Wen-Hsiung Li
     institution: University of Chicago
-    year: 2004-2008
+    year: 2008
 
   - course: PhD in Ecology and Evolution
     institution: University of Michigan
