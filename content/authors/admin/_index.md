@@ -22,14 +22,14 @@ bio:
 
 interests:
 - Regulatory Evolution
-- Evolutionary Genomics
-- Phylogenetics and Phylogenomics
+#- Evolutionary Genomics
+#- Phylogenetics and Phylogenomics
 
 education:
   courses:
- # - course: PostDoc with Wen-Hsiung Li
- #   institution: University of Chicago
- #   year: 2004-2008
+  - course: PostDoc with Wen-Hsiung Li
+    institution: University of Chicago
+    year: 2004-2008
 
   - course: PhD in Ecology and Evolution
     institution: University of Michigan
