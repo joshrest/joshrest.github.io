@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Laby Carotenoid"
+title: "Functional Genomics of Labyrinthulomycetes"
 summary: ""
 authors: ["Mariana-Rius","Joshua-Rest","Xegfred-Lou-Quidet","Michael-Horowitz","Anbarasu-Karthikaichamy"]
 tags: []
