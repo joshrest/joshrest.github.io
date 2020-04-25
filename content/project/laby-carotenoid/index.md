@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Functional Genomics of Labyrinthulomycetes."
-summary: ""
+summary: "Developing tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis and the production of the ectoplasmic network."
 authors: ["Mariana-Rius","Joshua-Rest","Xegfred-Lou-Quidet"]
 tags: []
 categories: []
