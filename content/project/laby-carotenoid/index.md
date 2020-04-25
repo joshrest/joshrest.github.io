@@ -21,13 +21,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ links:
+ - name: Project Website
+   url: https://you.stonybrook.edu/labyrinthulomycetes/
+   icon_pack: fab
+   icon: microscope
 
-url_code: "https://you.stonybrook.edu/labyrinthulomycetes/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: "https://cpb-us-e1.wpmucdn.com/you.stonybrook.edu/dist/4/2073/files/2017/03/field22-1wx9sjn.gif"
