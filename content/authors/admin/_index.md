@@ -29,7 +29,7 @@ education:
   courses:
   - course: PostDoc with Wen-Hsiung Li
     institution: University of Chicago
-    year: 2008
+    year: 2004-2008
 
   - course: PhD in Ecology and Evolution
     institution: University of Michigan
@@ -58,9 +58,9 @@ social:
   link: https://github.com/joshrest
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
