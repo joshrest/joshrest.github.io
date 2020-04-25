@@ -51,5 +51,5 @@ hero_media = "PrettyYEPD.jpg"
 	#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-This is Joshua Rest's lab @ Dept. of <a href="https://www.stonybrook.edu/ecoevo/">Ecology and Evolution</a> @ <a href="http://www.stonybrook.edu">Stony Brook University</a>.
+Joshua Rest's lab @ <a href="https://www.stonybrook.edu/ecoevo/">Ecology and Evolution</a> @ <a href="http://www.stonybrook.edu">Stony Brook University</a>.
 We use computation, experiments, and natural history to study the evolution of biological systems. 
