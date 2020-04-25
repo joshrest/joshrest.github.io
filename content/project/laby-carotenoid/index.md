@@ -24,7 +24,7 @@ image:
 # links:
  - name: Project Website
   url: https://you.stonybrook.edu/labyrinthulomycetes/
-   icon_pack: fas
+   icon_pack: far
    icon: fax
 
 url_code: "https://you.stonybrook.edu/labyrinthulomycetes/"
