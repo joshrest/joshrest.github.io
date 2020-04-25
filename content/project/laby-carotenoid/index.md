@@ -22,10 +22,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links:
- - name: Project Website
-   url: https://you.stonybrook.edu/labyrinthulomycetes/
-   icon_pack: fab
-   icon: microscope
+# - name: Project Website
+#   url: https://you.stonybrook.edu/labyrinthulomycetes/
+#   icon_pack: fab
+#   icon: microscope
 
 url_code: ""
 url_pdf: ""
