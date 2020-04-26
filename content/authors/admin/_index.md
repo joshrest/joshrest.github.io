@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} 
+role: Associate Professor 
 
 # Organizations/Affiliations
 organizations:
