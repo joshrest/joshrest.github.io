@@ -15,13 +15,13 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Ecology and Evolution, Stony Brook University
-  url: "https://www.stonybrook.edu/ecoevo/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-#interests:
-#- 
+interests:
+- 
 
 education:
   courses:
@@ -61,6 +61,7 @@ user_groups:
 - Grad Students
 #- Visitors
 ---
+<a href="https://alexggo.github.io/"> Visit Alex's website.</a> <p>
 
 Alejandro Gil-Gomez is a PhD student in the Ecology and Evolution Department at Stony Brook University on Long Island, New York.
 
