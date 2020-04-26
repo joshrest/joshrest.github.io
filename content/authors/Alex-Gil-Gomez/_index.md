@@ -61,8 +61,6 @@ user_groups:
 - Grad Students
 #- Visitors
 ---
-#<a href="https://alexggo.github.io/"> Visit Alex's website.</a> <p>
-
 Alejandro Gil-Gomez is a PhD student in the Ecology and Evolution Department at Stony Brook University on Long Island, New York.
 
 His research interests include molecular evolution, phylogenetics, network biology and bioinformatics. In particular, he studies how intracellular location and protein domain structure affect the evolution of antibiotic resistance in yeast.
