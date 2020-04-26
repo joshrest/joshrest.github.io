@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Associate Professor {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} 
 
 # Organizations/Affiliations
 organizations:
 - name: Department of Ecology and Evolution, Stony Brook University
-  url: {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
