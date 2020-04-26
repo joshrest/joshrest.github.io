@@ -18,16 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: We use computation, experiments, and natural history to study the evolution of biological systems.
+bio: 
 
 interests:
 - 
 
 education:
   courses:
-  - course: PhD in Ecology and Evolution
-    institution: University of Michigan
-    year: 2004
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,15 +37,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/joshrest
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=vXR2PPwAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/joshrest
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=vXR2PPwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/joshrest
+  link: https://github.com/marianarius
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +62,4 @@ user_groups:
 #- Visitors
 ---
 
-Joshua Rest's lab...
+Mariana is a graduate student in Jackie Collier's lab who also spends a lot of time in the Rest lab.
