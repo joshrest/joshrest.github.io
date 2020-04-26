@@ -15,10 +15,10 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Ecology and Evolution, Stony Brook University
-  url: ""
+  url: "https://alexggo.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: We use computation, experiments, and natural history to study the evolution of biological systems.
+bio: 
 
 interests:
 - 
@@ -33,18 +33,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/joshrest
+  link: https://twitter.com/Alex_glgz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vXR2PPwAAAAJ
+  link: https://scholar.google.com/citations?user=3X2kmYAAAAAJ&hl=es&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/joshrest
+  link: https://github.com/alexggo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +61,10 @@ user_groups:
 #- Visitors
 ---
 
-Joshua Rest's lab...
+Alejandro Gil-Gomez is a PhD student in the Ecology and Evolution Department at Stony Brook University on Long Island, New York.
+
+His research interests include molecular evolution, phylogenetics, network biology and bioinformatics. In particular, he studies how intracellular location and protein domain structure affect the evolution of antibiotic resistance in yeast.
+
+His work focuses on the evolution of echinocandin and azole resistance in fungi, by comparing substitution rates of drug targets.
+
+He also studies the natural history of Candida auris, a recently described human pathogen that is pan-drug resistant.
