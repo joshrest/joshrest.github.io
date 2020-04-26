@@ -15,7 +15,7 @@ role: Associate Professor
 # Organizations/Affiliations
 organizations:
 - name: Department of Ecology and Evolution, Stony Brook University
-  url: ""
+  url: {{% staticref "files/cv.pdf" "newtab" %}}Download Rest's CV{{% /staticref %}} 
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
