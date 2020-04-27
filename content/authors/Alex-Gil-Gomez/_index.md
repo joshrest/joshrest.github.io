@@ -25,9 +25,9 @@ bio:
 
 education:
   courses:
-#  - course:BSc in Biology
-#    institution: Universidad Autonoma de Madrid  
-#    year: 2016
+  - course: BSc in Biology
+    institution: Universidad Autonoma de Madrid  
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
