@@ -15,19 +15,19 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: SoMAS, Stony Brook University
-  url: ""
+  url: "https://www.somas.stonybrook.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- 
+#interests:
+#- 
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+#  - course: 
+#    institution: 
+#    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,5 +61,6 @@ user_groups:
 - Grad Students
 #- Visitors
 ---
-
+<a href="https://www.protocols.io/researchers/mariana-rius"> Visit Mariana's protocols.io page. </a><p>
+<a href="https://www.stonybrook.edu/commcms/cie/ciestudentspotlight/mrius2017.php">CIE Researcher of Distinction, October 2017 </a><p>
 Mariana is a graduate student in Jackie Collier's lab who also spends a lot of time in the Rest lab.
