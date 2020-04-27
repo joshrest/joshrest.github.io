@@ -25,9 +25,9 @@ bio:
 
 education:
   courses:
-  - course:BSc in Biology
-    institution: Universidad Autonoma de Madrid  
-    year: 2016
+#  - course:BSc in Biology
+#    institution: Universidad Autonoma de Madrid  
+#    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,5 +59,14 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Grad Students
-#- Visitors
+
 ---
+<a href="https://alexggo.github.io/"> Visit Alex's website.</a> <p>
+
+Alejandro Gil-Gomez is a PhD student in the Ecology and Evolution Department at Stony Brook University on Long Island, New York.
+
+His research interests include molecular evolution, phylogenetics, network biology and bioinformatics. In particular, he studies how intracellular location and protein domain structure affect the evolution of antibiotic resistance in yeast.
+
+His work focuses on the evolution of echinocandin and azole resistance in fungi, by comparing substitution rates of drug targets.
+
+He also studies the natural history of Candida auris, a recently described human pathogen that is pan-drug resistant.
