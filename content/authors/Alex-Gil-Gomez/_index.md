@@ -15,13 +15,13 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Ecology and Evolution, Stony Brook University
-  url: ""
+  url: "https://www.stonybrook.edu/ecoevo/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- 
+#interests:
+#- 
 
 education:
   courses:
