@@ -15,19 +15,19 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Biology, Stony Brook University
-  url: ""
+  url: "https://www.stonybrook.edu/ugbiology/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- 
+#interests:
+#- 
 
-education:
-  courses:
-  - course: 
-    institution: 
-    year: 
+#education:
+#  courses:
+#  - course: 
+#    institution: 
+#    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -59,7 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Undergraduate Researchers
-#- Visitors
+
 ---
 
-Joshua Rest's lab...
+Nina is an undergraduate biology major.
