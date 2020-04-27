@@ -23,8 +23,8 @@ bio:
 #interests:
 #- 
 
-education:
-  courses:
+#education:
+#  courses:
 #  - course: 
 #    institution: 
 #    year: 
