@@ -20,24 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: We use computation, experiments, and natural history to study the evolution of biological systems.
 
-interests:
-- 
+#interests:
+#- 
 
 education:
   courses:
   - course: PhD in Biochemistry and Molecular Biology
-institution: IITB-Monash Research Academy
+    institution: IITB-Monash Research Academy
     year: 2019
 
   - course: Master of Technology in Biopharamaceutical Technology
-institution: Anna University
+    institution: Anna University
     year: 2013
 
   - course: Bachelor of Technology in Biotechnology
-institution: Mepco Schlenk Engineering College
+    institution: Mepco Schlenk Engineering College
     year: 2011
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
