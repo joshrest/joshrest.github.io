@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest Lab</title>
+    <link>https://phylogenetic.com/authors/xegfred-lou-quidet/</link>
+      <atom:link href="https://phylogenetic.com/authors/xegfred-lou-quidet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rest Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://phylogenetic.com/authors/xegfred-lou-quidet/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Rest Lab</title>
+      <link>https://phylogenetic.com/authors/xegfred-lou-quidet/</link>
+    </image>
+    
+    <item>
+      <title>Functional Genomics of Labyrinthulomycetes.</title>
+      <link>https://phylogenetic.com/project/laby-carotenoid/</link>
+      <pubDate>Fri, 24 Apr 2020 14:10:45 -0400</pubDate>
+      <guid>https://phylogenetic.com/project/laby-carotenoid/</guid>
+      <description>&lt;p&gt;Labyrinthulomycetes are ubiquitous, abundant, and diverse osmoheterotrophic marine protists thought to play important roles in the marine carbon cycle by remineralizing particulate organic matter, and in marine food webs by supplying, de novo, essential polyunsaturated fatty acids. These basal stramenopiles are united by a unique organelle that produces a structure known as the ectoplasmic network, by which the vegetative cells interact with their substrate. In work supported by the Moore Foundation and in collaboration with Jackie Collier’s lab, we have achieved stable transformation, by knock-in of an antibiotic resistance expression cassette, of Aurantiochytrium limacinum ATCC MYA-1381, a functionally haploid, fast growing thraustochytrid, which has several features that make it a favorable model for labyrinthulomycete biology. We are using these tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis, production of the ectoplasmic network, and production of essential fatty acids.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

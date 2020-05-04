@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest Lab</title>
+    <link>https://phylogenetic.com/authors/admin/</link>
+      <atom:link href="https://phylogenetic.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rest Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://phylogenetic.com/authors/admin/avatar_hucae5eca6b4456ecb1c5943c17e79bbbb_3025429_270x270_fill_lanczos_center_2.png</url>
+      <title>Rest Lab</title>
+      <link>https://phylogenetic.com/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Cell to Cell Expression Variation</title>
+      <link>https://phylogenetic.com/project/cell-variation/</link>
+      <pubDate>Sat, 25 Apr 2020 08:55:13 -0400</pubDate>
+      <guid>https://phylogenetic.com/project/cell-variation/</guid>
+      <description>&lt;p&gt;There are differences in gene expression levels between individual cells in a population, even when the cells are genetically identical and in the same environment. There is an unexpectedly high level of cell-to-cell variation in the expression level of several hundred genes, leading to the question: What is the purpose of this heterogeneity? In work funding by NIH - NIGMS, My lab has developed an innovative approach that allows us to assess the consequences of cell-to-cell expression variation for many genes across thousands of budding yeast cells. We have found that for almost all genes, cells in the population that have extremely high or extremely low levels of expression show both slower growth rate and lower levels of survival than the majority of the population. This indicates that expression variation creates fundamental physiological differences among cells which will influence the growth and survival of the population. Preliminary results also show that the growth costs of outliers are exaggerated when they are away from the rest of the population, suggesting interactions among cells with different expression levels. In order to examine the evolutionary and population genetic consequences of this noise, we are examining these noise phenotypes across diverse wild isolates of budding yeast.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional Genomics of Labyrinthulomycetes.</title>
+      <link>https://phylogenetic.com/project/laby-carotenoid/</link>
+      <pubDate>Fri, 24 Apr 2020 14:10:45 -0400</pubDate>
+      <guid>https://phylogenetic.com/project/laby-carotenoid/</guid>
+      <description>&lt;p&gt;Labyrinthulomycetes are ubiquitous, abundant, and diverse osmoheterotrophic marine protists thought to play important roles in the marine carbon cycle by remineralizing particulate organic matter, and in marine food webs by supplying, de novo, essential polyunsaturated fatty acids. These basal stramenopiles are united by a unique organelle that produces a structure known as the ectoplasmic network, by which the vegetative cells interact with their substrate. In work supported by the Moore Foundation and in collaboration with Jackie Collier’s lab, we have achieved stable transformation, by knock-in of an antibiotic resistance expression cassette, of Aurantiochytrium limacinum ATCC MYA-1381, a functionally haploid, fast growing thraustochytrid, which has several features that make it a favorable model for labyrinthulomycete biology. We are using these tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis, production of the ectoplasmic network, and production of essential fatty acids.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nature Methods paper on Marine Protist Genetic Tools</title>
+      <link>https://phylogenetic.com/post/laby-genomic-tools/</link>
+      <pubDate>Fri, 24 Apr 2020 11:32:19 -0400</pubDate>
+      <guid>https://phylogenetic.com/post/laby-genomic-tools/</guid>
+      <description>&lt;p&gt;For the past several years, School of Marine and Atmospheric Sciences Associate Professor Jackie Collier and PhD candidate Mariana Rius, along with Associate Professor Joshua Rest from the College of Arts and Sciences Department of Ecology and Evolution, developed the tools and methodology for genetically transforming a single-celled marine fungus-like organism known as Aurantiochytrium limacinum ATCC MYA-1381. The three were among more than 100 scientists spanning 41 research groups across the globe who collaborated on the development of genetic tools in 39 evolutionarily diverse unicellular marine eukaryotes (protists).
+Their paper, Genetic Tool Development in Marine Protists: Emerging Model Organisms for Experimental Cell Biology, appears in the April issue of Nature Methods and was referred to by one of the paper’s reviewers as “a great resource that will be used for years to come as an authoritative encyclopedia of genetic manipulation of protists.”&lt;/p&gt;
+&lt;p&gt;These genetic tools are the primary means in which an understudied and generally underappreciated marine microbe emerges into a model organism. Expanding the evolutionary as well as the ecological breadth of diverse eukaryotes that can undergo genetic modification creates the foundation for questions regarding eukaryotic cell biology, evolution, ecology, metabolism, reproduction, etc. to be addressed head on. These eukaryotes play an enormous role in the ocean’s biogeochemical cycling and are an integral component of marine food webs.
+See the  &lt;a href=&#34;https://news.stonybrook.edu/facultystaff/sbu-researchers-collaborate-on-genetic-tool-development-in-marine-protists/&#34;&gt;full press release&lt;/a&gt;.
+See the open access &lt;a href=&#34;https://www.nature.com/articles/s41592-020-0796-x&#34;&gt; Nature Methods article.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

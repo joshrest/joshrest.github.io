@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Rest Lab</title>
+    <link>https://phylogenetic.com/project/</link>
+      <atom:link href="https://phylogenetic.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 08:55:13 -0400</lastBuildDate>
+    <image>
+      <url>https://phylogenetic.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://phylogenetic.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Cell to Cell Expression Variation</title>
+      <link>https://phylogenetic.com/project/cell-variation/</link>
+      <pubDate>Sat, 25 Apr 2020 08:55:13 -0400</pubDate>
+      <guid>https://phylogenetic.com/project/cell-variation/</guid>
+      <description>&lt;p&gt;There are differences in gene expression levels between individual cells in a population, even when the cells are genetically identical and in the same environment. There is an unexpectedly high level of cell-to-cell variation in the expression level of several hundred genes, leading to the question: What is the purpose of this heterogeneity? In work funding by NIH - NIGMS, My lab has developed an innovative approach that allows us to assess the consequences of cell-to-cell expression variation for many genes across thousands of budding yeast cells. We have found that for almost all genes, cells in the population that have extremely high or extremely low levels of expression show both slower growth rate and lower levels of survival than the majority of the population. This indicates that expression variation creates fundamental physiological differences among cells which will influence the growth and survival of the population. Preliminary results also show that the growth costs of outliers are exaggerated when they are away from the rest of the population, suggesting interactions among cells with different expression levels. In order to examine the evolutionary and population genetic consequences of this noise, we are examining these noise phenotypes across diverse wild isolates of budding yeast.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional Genomics of Labyrinthulomycetes.</title>
+      <link>https://phylogenetic.com/project/laby-carotenoid/</link>
+      <pubDate>Fri, 24 Apr 2020 14:10:45 -0400</pubDate>
+      <guid>https://phylogenetic.com/project/laby-carotenoid/</guid>
+      <description>&lt;p&gt;Labyrinthulomycetes are ubiquitous, abundant, and diverse osmoheterotrophic marine protists thought to play important roles in the marine carbon cycle by remineralizing particulate organic matter, and in marine food webs by supplying, de novo, essential polyunsaturated fatty acids. These basal stramenopiles are united by a unique organelle that produces a structure known as the ectoplasmic network, by which the vegetative cells interact with their substrate. In work supported by the Moore Foundation and in collaboration with Jackie Collier’s lab, we have achieved stable transformation, by knock-in of an antibiotic resistance expression cassette, of Aurantiochytrium limacinum ATCC MYA-1381, a functionally haploid, fast growing thraustochytrid, which has several features that make it a favorable model for labyrinthulomycete biology. We are using these tools to investigate genes involved in ecologically and evolutionarily interesting labyrinthulomycete traits, including carotenoid biosynthesis, production of the ectoplasmic network, and production of essential fatty acids.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

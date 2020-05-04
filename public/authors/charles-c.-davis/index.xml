@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles C. Davis | Rest Lab</title>
+    <link>https://phylogenetic.com/authors/charles-c.-davis/</link>
+      <atom:link href="https://phylogenetic.com/authors/charles-c.-davis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles C. Davis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://phylogenetic.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles C. Davis</title>
+      <link>https://phylogenetic.com/authors/charles-c.-davis/</link>
+    </image>
+    
+    <item>
+      <title>Massive Mitochondrial Gene Transfer in a Parasitic Flowering Plant Clade</title>
+      <link>https://phylogenetic.com/publication/rn-1785/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://phylogenetic.com/publication/rn-1785/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenomics and Coalescent Analyses Resolve Extant Seed Plant Relationships</title>
+      <link>https://phylogenetic.com/publication/rn-1959/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://phylogenetic.com/publication/rn-1959/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
